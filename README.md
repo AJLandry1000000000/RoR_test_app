@@ -1,5 +1,13 @@
 # README
 
+I am completing this Udemy course: https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
+
+
+
+
+
+
+<!-- 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -21,4 +29,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
