@@ -2,7 +2,7 @@
 
 I am completing this Udemy course: https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
 
-
+Currently completing section 3.
 
 
 
