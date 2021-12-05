@@ -4,6 +4,8 @@ I am completing this Udemy course: https://www.udemy.com/course/the-complete-rub
 
 Currently completing section 3.
 
+Just downloaded GitHub CLI on windows and WSL. 
+
 
 
 
